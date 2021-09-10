@@ -1,0 +1,4 @@
+export CLICOLOR='true'
+export LSCOLORS="gxfxcxdxbxCgCdabagacad"
+export EDITOR=vi
+
