@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.form__container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.form__buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.form__buttons > input {
+    margin-right: 10px;
+    padding: 10px;
+}
